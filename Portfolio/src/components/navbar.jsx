@@ -8,7 +8,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="selection:bg-white selection:text-black">
+    <div>
       <nav aria-label="Main Navigation">
         <div className="navbar flex justify-center items-center w-full">
           <div className="bar w-10/12 sm:w-10/12 h-14 m-4 flex justify-between sm:justify-between items-center px-6 sm:px-10 bg-white rounded-xl">
